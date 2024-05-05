@@ -19,16 +19,16 @@
 
     /*
     (
-      name: "Student 1",
-      department: [Dept. of EE],
+      name: "baroudi maram",
+      department: [Dept. of EI],
       organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
+      profile: "aram baroudi",
     ),
     (
-      name: "Student 2",
-      department: [Dept. of EE],
+      name: "karouia nour",
+      department: [Dept. of EI],
       organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
+      profile: "aram baroudi",
     ),
     (
       name: "Student 3",
